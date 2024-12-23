@@ -1,0 +1,8 @@
+.gitignore
+.zipignore
+.zipper
+*.DS_Store
+*.md
+*.psd
+*screenshot*.*
+*small*.*
